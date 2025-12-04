@@ -3,15 +3,12 @@
 #endif
 
 /*
-  Zadatak4.c
-  Converted to C from a C++14 implementation.
   Reads two polynomials from a file, sorts terms on input,
   computes their sum and product, and prints results.
 
   File format:
     - Two polynomials separated by an empty line.   
-    - Each polynomial: lines with "<coefficient> <exponent>"
-    - Lines starting with '#' are comments and ignored.
+    - Each polynomial: "<coefficient> <exponent>"
 
   Usage:
     Zadatak4.exe input.txt
