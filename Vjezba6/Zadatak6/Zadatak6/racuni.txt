@@ -1,0 +1,23 @@
+2023-05-10
+Milk, 2, 1.50
+Bread, 1, 0.80
+Apple, 10, 0.20
+Eggs, 12, 0.10
+Milk, 1, 1.50
+Chocolate, 3, 2.00
+Banana, 5, 0.30
+
+2024-08-16
+Milk, 3, 1.50
+Bread, 2, 0.80
+Eggs, 12, 0.12
+Apple, 6, 0.25
+Banana, 10, 0.30
+Orange, 4, 0.40
+Chicken Breast, 2, 5.75
+Rice 1kg, 1, 2.99
+Pasta, 2, 1.20
+Tomato, 8, 0.35
+Lettuce, 1, 1.00
+Yogurt, 6, 0.70
+Chocolate, 2, 1.99
