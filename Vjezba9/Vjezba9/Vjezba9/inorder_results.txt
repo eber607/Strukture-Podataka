@@ -1,0 +1,4 @@
+Inorder after insert:
+13 20 26 46 52 70 76 83 85 90 
+Inorder after replace:
+0 541 0 26 142 0 452 85 0 168 
